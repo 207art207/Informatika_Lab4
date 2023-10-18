@@ -31,6 +31,7 @@
 **Додаток_1**
 
 ![Додаток_1](https://github.com/207art207/Informatika_Lab4/blob/main/%D0%94%D0%BE%D0%B4%D0%B0%D1%82%D0%BE%D0%BA_1.png?raw=true)
+
 Завдання_№3
 
 ```
