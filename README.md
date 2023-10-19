@@ -112,7 +112,7 @@ int main () {
 }
 }
 ```
-## Осточний код
+## Остаточний код
 ```
 #include <stdio.h>
 #include <stdlib.h>
